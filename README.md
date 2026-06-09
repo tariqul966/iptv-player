@@ -6,8 +6,7 @@ HTML IPTV Player with EPG viewer for M3U8 playlist
 
 https://tariqul966.github.io/iptv-player/?file=<link to playlist.m3u8\>
 
-https://tariqul966.github.io/iptv-player/?file=https://dbghelp.github.io/playlist.m3u8
-
+https://tariqul966.github.io/iptv-player/?file=https://tariqul966.github.io/iptv-player/toffee_all_player.m3u
 ## Features
 
 - Mouse over channel logo to view EPG for specific channel (with thumbnail images from epg.xml)
@@ -25,14 +24,6 @@ V2 update:
 - Added error handling for malformed EPGs
 
 
-## Screenshots
-*Channel logos used for illustration purpose only
-![Local Image](./img/home.png)
-![Local Image](./img/home_2.png)
-![Local Image](./img/home_3.png)
-![Local Image](./img/epg_all.png)
-![Local Image](./img/epg_all_2.png)
-![Local Image](./img/epg_all_3.png)
 
 ## Sample M3U8 playlist format
 ```
